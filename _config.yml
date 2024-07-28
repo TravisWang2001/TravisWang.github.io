@@ -21,7 +21,7 @@ repository               : "traviswang2001.github.io/TravisWang.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "nalian.png"
+  avatar           : "profile.png"
   name             : "Travis Wang"
   pronouns         : # example: "she/her"  
   bio              : "Game Player"
